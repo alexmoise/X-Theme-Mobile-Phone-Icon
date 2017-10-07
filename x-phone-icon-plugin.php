@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name: X Theme Phone Icon
- * Plugin URI: https://moise.pro/
- * Description: A simple plugin to add a callable phone icon to the left side of X theme bar on mobiles. No settings page at this moment (maybe make the phone number and icon color as manageable options in the future?). For details/troubleshooting please contact me at alex@moise.pro
+ * Plugin URI: https://gist.github.com/alexmoise/108be8f85bf2e62c924594af06aa3a7a
+ * Description: A simple plugin to add a callable phone icon to the left side of X theme bar on mobiles. No settings page at this moment (maybe make the phone number and icon color as manageable options in the future?). For details/troubleshooting please contact me at https://moise.pro/contact/
  * Version: 1.0.0
  * Author: Alex Moise
  * Author URI: https://moise.pro
